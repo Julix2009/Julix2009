@@ -57,7 +57,7 @@ Wenn ich nicht gerade mein `grub.cfg` zerschieße (Danke Wetzi...), findest du m
 `Puppy OS` 
 
 `Arch Linux (Hyprland)`
-> Note: Never trust Wetzi's Grub configs. Lesson learned.
+> Note: Never trust Wetzi's Grub configs. 
 
 ---
 
