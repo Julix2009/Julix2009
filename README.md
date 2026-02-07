@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ My Rig (The AMD Beast)
+## 🛠️ My Rig 
 *Powered by open-source drivers and pure performance.*
 
 - **CPU:** AMD Ryzen 7 7800 X3D 🚀
