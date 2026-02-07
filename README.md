@@ -9,7 +9,7 @@
 | **Main** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Sometimes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Legacy / Office** | ![VBA](https://img.shields.io/badge/VBA-000080?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **OS** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) **X** ![Hyperland](https://img.shields.io/badge/Hyperland-1793D1?style=for-the-badge&logo=hyperland&logoColor=white) |
+| **OS** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) **X** ![Hyperland](https://img.shields.io/badge/Hyperland-9a80c1?style=for-the-badge&logo=hyperland&logoColor=white) |
 
 ---
 
