@@ -49,8 +49,14 @@ Wenn ich nicht gerade mein `grub.cfg` zerschieße (Danke Wetzi...), findest du m
 
 ---
 
-## 🐧 Distro Journey
-`Pop!_OS` -> `Fedora` -> `Puppy OS` -> **Arch Linux (Hyprland)** 🎯
+## 🐧 Distros i used
+`Pop!_OS` 
+
+`Fedora` 
+
+`Puppy OS` 
+
+**Arch Linux (Hyprland)** 
 *Note: Never trust Wetzi's Grub configs. Lesson learned.*
 
 ---
