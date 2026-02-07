@@ -1,5 +1,5 @@
-# 🏎️ Moin, ich bin Matthi! 
-### Arch Linux User | Java Developer | Red Bull Racing Fan
+# 🏎️ About Me: 
+### Arch Linux User | Student | Red Bull Racing Fan
 
 ---
 
