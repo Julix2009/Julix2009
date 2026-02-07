@@ -33,7 +33,7 @@
 ---
 
 ## 🚵‍♂️ Outside the Terminal
-Wenn ich nicht gerade mein `grub.cfg` zerschieße (Danke Wetzi...), findest du mich hier:
+When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually doing this:"
 - **MTB:** Shredding trails on **Propain, Ghost, YT** or **Canyon** bikes.
 - **F1:** Cheering for **Red Bull Racing** (Max Verstappen 🐐).
 - **Fastfetch:** Just looking at my beautiful Arch setup.
