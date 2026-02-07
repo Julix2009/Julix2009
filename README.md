@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ My Rig 
-*Powered by open-source drivers and pure performance.*
+*Powered by pure performance.*
 
 - **CPU:** AMD Ryzen 7 7800 X3D 🚀
 - **GPU:** AMD Radeon 9070 XT
@@ -24,7 +24,6 @@
 - **PSU:** Corsair RM1000e (2025 Edition)
 
 ### 📊 Benchmarks
-> "Windows is for updates, Linux is for performance."
 
 * **Time Spy:** 24 259 pts
 * **Steel Nomad:** 6 960 pts
