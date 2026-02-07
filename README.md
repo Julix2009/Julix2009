@@ -57,10 +57,13 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 `Puppy OS` 
 
 `Arch Linux (Hyprland)`
-> Note: Never trust Wetzi's Grub configs. 
-
+ 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20use%20Arch%20btw" alt="Arch Quote" />
+  <a href="https://github.com/antonkomarev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-%231793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
