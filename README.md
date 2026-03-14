@@ -45,7 +45,7 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 
 - ❌ **Software:** Windows, Excel, Secure Boot and especially **Eclipse** (Burn it with fire 🔥)
 - ❌ **Hardware:** RTX 4060, MSI Deagl
-- ❌ **F1:** Lando Norris (Sorry, not sorry)
+- ❌ **F1:** Lando Norris 
 
 ---
 
