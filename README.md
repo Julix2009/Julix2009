@@ -1,4 +1,4 @@
-# 🏎️ About Me: 
+# About Me: 
 ### Arch Linux User | Student | Red Bull Racing Fan
 
 ---
