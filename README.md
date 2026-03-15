@@ -71,9 +71,9 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 ---
 
 ## 🔥 Streak
-<div align="center">
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Julix2009&theme=dark)
-</div>
+
 
 
 
