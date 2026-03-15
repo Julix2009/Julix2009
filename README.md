@@ -60,8 +60,11 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
  
 ---
 
-<p align="center">
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-%231793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</p>
+## 🤙 Friends
+| | Name | GitHub |
+|---|---|---|
+| <img src='https://github.com/wetzii.png?size=30' width='30'> | Wetzi | [@wetzii](https://github.com/wetzii) |
+| <img src='https://github.com/oninghg.png?size=30' width='30'> | Nino | [@oninghg](https://github.com/oninghg) |
+
+
+
