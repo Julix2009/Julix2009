@@ -61,12 +61,14 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 ---
 
 ## 🤙 Friends
+
+<div allign="center">
 | | Name | GitHub |
 |---|---|---|
 | <img src='https://github.com/wetzii.png?size=30' width='30'> | Wetzi | [@wetzii](https://github.com/wetzii) |
 | <img src='https://github.com/oninghg.png?size=30' width='30'> | Nino | [@oninghg](https://github.com/oninghg) |
 | <img src='https://github.com/Matthi1009.png?size=30' width='30'> | Matthi | [@Matthi1009](https://github.com/Matthi1009) |
-
+</div>
 ---
 
 ## 🔥 Streak
