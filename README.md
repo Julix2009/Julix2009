@@ -17,7 +17,7 @@
 ## 🛠️ My Rig 
 *Powered by pure performance.*
 
-- **CPU:** AMD Ryzen 7 7800 X3D 🚀
+- **CPU:** AMD Ryzen 7 7800 X3D 
 - **GPU:** AMD Radeon 9070 XT
 - **Board:** Gigabyte B650E AORUS STEALTH ICE (Clean Look!)
 - **Case:** Corsair 3500X Midi Tower
@@ -43,7 +43,7 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 ## 🚫 The "No-Go" List
 > I have a very specific set of things I dislike:
 
-- ❌ **Software:** Windows, Excel, Secure Boot and especially **Eclipse** (Burn it with fire 🔥)
+- ❌ **Software:** Windows, Excel, Secure Boot and especially **Eclipse** 
 - ❌ **Hardware:** RTX 4060, MSI Deagl
 - ❌ **F1:** Lando Norris 
 
