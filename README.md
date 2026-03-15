@@ -68,7 +68,7 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 | <img src='https://github.com/Matthi1009.png?size=30' width='30'> | Matthi | [@Matthi1009](https://github.com/Matthi1009) |
 
 ## 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=DEIN_USERNAME&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Julix2009&theme=dark)
 
 
 
