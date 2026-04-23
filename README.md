@@ -3,7 +3,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Main** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ My Rig 
+##  My Rig 
 *Powered by pure performance.*
 
 - **CPU:** AMD Ryzen 7 7800 X3D 
@@ -24,7 +24,7 @@
 - **Cooling:** ARCTIC Liquid Freezer III Pro 360
 - **PSU:** Corsair RM1000e (2025 Edition)
 
-### 📊 Benchmarks
+###  Benchmarks
 
 * **Time Spy:** 24 259 pts
 * **Steel Nomad:** 6 960 pts
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚵‍♂️ Outside the Terminal
+##  Outside the Terminal
 When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually doing this:"
 - **MTB:** Shredding trails on **Propain, Ghost, YT** or **Canyon** bikes.
 - **F1:** Cheering for **Red Bull Racing** (Max Verstappen 🐐).
@@ -40,12 +40,12 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 
 ---
 
-## 🚫 The "No-Go" List
+##  The "No-Go" List
 > I have a very specific set of things I dislike:
 
-- ❌ **Software:** Windows, Excel, Secure Boot and especially **Eclipse** 
-- ❌ **Hardware:** RTX 4060, MSI Deagl
-- ❌ **F1:** Lando Norris 
+-  **Software:** Windows, Excel, Secure Boot and especially **Eclipse** 
+-  **Hardware:** RTX 4060, MSI Deagl
+-  **F1:** Lando Norris 
 
 ---
 
