@@ -15,7 +15,6 @@
 ---
 
 ##  My Rig 
-*Powered by pure performance.*
 
 - **CPU:** AMD Ryzen 7 7800 X3D 
 - **GPU:** AMD Radeon 9070 XT
