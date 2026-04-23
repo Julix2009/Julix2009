@@ -20,7 +20,7 @@
 - **GPU:** AMD Radeon 9070 XT
 - **Board:** Gigabyte B650E AORUS STEALTH ICE (Clean Look!)
 - **Case:** Corsair 3500X Midi Tower
-- **Cooling:** ARCTIC Liquid Freezer III Pro 360
+- **Cooling:** ARCTIC Liquid Freezer III ARGB 360
 - **PSU:** Corsair RM1000e (2025 Edition)
 
 ###  Benchmarks
