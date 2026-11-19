@@ -76,11 +76,3 @@ When I haven't accidentally nuked my Arch (shoutout to Wetzi :)), I'm usually do
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julix2009&layout=compact&theme=dark&langs_count=6)
 
 ---
-
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Julix2009&theme=dark)
-
-
-
-
